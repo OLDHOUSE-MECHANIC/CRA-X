@@ -1,4 +1,4 @@
-# CRA X Mk1 — Contextual Response Agent eXperimental
+# CRA X — Contextual Response Agent X
 
 **A local-first, modular framework for contextual automation and intelligent response handling.**
 
@@ -90,14 +90,6 @@ log_level = "debug"
 plugins_path = "./plugins"
 ```
 
----
-
-## Roadmap
-- [ ] Plugin SDK for custom logic modules
-- [ ] Persistent state memory for sessions
-- [ ] Optional natural language interface
-- [ ] Simple web dashboard
-- [ ] System task automation support
 
 ---
 
@@ -113,7 +105,7 @@ See [`CONTRIBUTING.md`](docs/contributing.md) for details.
 
 ---
 
-## Documentation
+## Documentation---Pending
 - [Installation Guide](docs/installation.md)
 - [Usage Examples](docs/usage.md)
 - [Architecture Overview](docs/architecture.md)
